@@ -15,8 +15,9 @@ I have 3+ years of experience delivering B2B SaaS products in healthcare and poi
 
 <b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b>
 <p align="left"> <a href="https://react.dev/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="auto" height="24"/> </a> 
-<a href="https://kit.svelte.dev/" target="_blank"> <img src="https://styles.redditmedia.com/t5_3htkz/styles/communityIcon_5gn47dhdp4o31.png" alt="react" width="auto" height="24"/> </a> 
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png" alt="react" width="auto" height="24"/> </a> 
+<a href="https://kit.svelte.dev/" target="_blank"> <img src="https://styles.redditmedia.com/t5_3htkz/styles/communityIcon_5gn47dhdp4o31.png" alt="sveltekit" width="auto" height="24"/> </a> 
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/1820px-Logo_C_sharp.svg.png" alt="c#" width="auto" height="24"/> </a> 
+</p>
 
 🔗 &nbsp;**Connect with me**
 <p align="left">
